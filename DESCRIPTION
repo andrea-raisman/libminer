@@ -8,7 +8,7 @@ Description: This package summarizes the number of packages and the size of your
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
-URL: https://github.com/andrea-raisman/libminer
+URL: https://github.com/andrea-raisman/libminer, https://andrea-raisman.github.io/libminer/
 BugReports: https://github.com/andrea-raisman/libminer/issues
 Config/roxygen2/version: 8.1.0
 Suggests: 
