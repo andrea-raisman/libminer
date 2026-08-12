@@ -4,7 +4,7 @@ Version: 1.0.0
 Authors@R: 
     person("Andrea", "Villanueva Raisman",
     email = "andrea.villanueva@gmail.com", role = "cre")
-Description: This package summarizes your R libraries.
+Description: This package summarizes the number of packages and the size of your R libraries.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)

@@ -2,6 +2,8 @@
 #'
 #' Provides a brief summary of the package libraries on your machine
 #' 
+#' @param sizes TRUE if you want to see the size of each library
+#' 
 #' @returns A `data.frame` containing the count of packages in each of the
 #'   user's libraries
 #'
