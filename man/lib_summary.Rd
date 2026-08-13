@@ -4,7 +4,10 @@
 \alias{lib_summary}
 \title{Libsummary}
 \usage{
-lib_summary()
+lib_summary(sizes = FALSE)
+}
+\arguments{
+\item{sizes}{TRUE if you want to see the size of each library}
 }
 \value{
 A \code{data.frame} containing the count of packages in each of the

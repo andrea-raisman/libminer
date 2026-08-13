@@ -6,12 +6,13 @@
 \alias{libminer-package}
 \title{libminer: Summarize Your R Libraries}
 \description{
-This package summarizes your R libraries.
+This package summarizes the number of packages and the size of your R libraries.
 }
 \seealso{
 Useful links:
 \itemize{
   \item \url{https://github.com/andrea-raisman/libminer}
+  \item \url{https://andrea-raisman.github.io/libminer/}
   \item Report bugs at \url{https://github.com/andrea-raisman/libminer/issues}
 }
 
