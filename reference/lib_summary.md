@@ -5,8 +5,14 @@ Provides a brief summary of the package libraries on your machine
 ## Usage
 
 ``` r
-lib_summary()
+lib_summary(sizes = FALSE)
 ```
+
+## Arguments
+
+- sizes:
+
+  TRUE if you want to see the size of each library
 
 ## Value
 
